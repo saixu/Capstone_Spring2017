@@ -38,6 +38,7 @@ Add your name or group with two spaces and an asterisk before it under your pref
 ### 17 Feb 2017
 
   * Seth Stayer
+  * Sai Xu
 
 
 ### 24 Mar 2017
