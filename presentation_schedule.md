@@ -47,7 +47,6 @@ _Class Cancelled_
 ### 3 Mar 2017
 
   * Deen Lin *
-  * Sai Xu
   
 ### 24 Mar 2017
 
@@ -57,6 +56,7 @@ _Class Cancelled_
   * Zachary Hankinson
   * David Robertson
   * David Sweeney
+  * Sai Xu
   
 ## Project Groups
 
